@@ -1,4 +1,4 @@
-#pyhton 2.7 no addons or addtinal modules installed
+#pyhton 2.7 no addons or addtional modules installed
 
 #!/usr/bin/python
 import urllib
